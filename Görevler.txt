@@ -1,0 +1,4 @@
+#1 Repostiry fork edin.
+#2 ÖğrenciNumaranız_İsim_Soyisim_Egzersiz1 adlı branch oluşturun ve bu branch 'e aynı şekilde txt dosyası oluşturun ve pull request atın.
+#3 Aynı şekilde Egzersiz2 branch ve txt
+#4 Aynı şekilde Egzersiz3 branch ve txt
